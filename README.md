@@ -1,4 +1,4 @@
-- 👋 Hi there my fellow human.
+- 👋 Hello there, my fellow human.
 - 🌱 I’m currently learning everything I like.
 - 👯 I’m looking to collaborate on my nwely invented language
 - 🤔 I’m looking for help with someone who knows about language

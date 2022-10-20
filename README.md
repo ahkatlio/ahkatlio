@@ -1,4 +1,4 @@
-- 👋 ###Hello there, my fellow human.
+👋 ###Hello there, my fellow human.
 ###My name is Abdullah Al Omar Galib 
 
 #### I’m an investigator, a detective whose work is to solve the mystery of this universe.

@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://abdullahalomargalib.netlify.app/](https://abdullahalomargalib.netlify.app/)
 
-- 📝 I regularly write articles on [https://youtube.com/@ElOmaresdiary2262261959](https://youtube.com/@ElOmaresdiary2262261959)
-
 - 💬 Ask me about **anything but the secret codes of my poems.**
 
 - 📫 How to reach me **abdullahalomargalib@gmail.com**

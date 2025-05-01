@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdullah-al-omar-galib-30b6b1258](https://www.linkedin.com/in/abdullah-al-omar-galib-30b6b1258)
 
-- I have sharpened my skills in programming languages such as Python, MATLAB, C++, C#, Javascript, etc. I have worked on several projects, including a Magic Sword Fight game and a Checkers AI vs. human game. Additionally, I have experience in developing various software applications, including a quantum teleportation and tunneling simulator using Qiskit, and driving safety software using machine learning with TensorFlow, Dlib, Keras, and OpenCV Python. Through my work, I have gained experience in project management, team collaboration, and problem-solving. I am passionate about exploring new technologies, such as quantum computing and artificial intelligence, and have completed several online courses in these fields. In my spare time, I continue to develop my skills by working on personal projects.
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">

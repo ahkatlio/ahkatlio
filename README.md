@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Abdullah Al Omar Galib</h1>
-
-<h3 align="center">I’m an investigator, a detective whose work is to solve the mystery of this universe.</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahkatlio" alt="ahkatlio" /></a> </p>
 
 - 🔭 I’m currently working on [My personal website](https://abdullahalomargalib.netlify.app/)

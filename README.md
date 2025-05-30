@@ -1,37 +1,7 @@
 ### Hi there 👋
 
-<!--
-**ahkatlio/ahkatlio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Abdullah Al Omar Galib</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahkatlio" alt="ahkatlio" /></a> </p>
-
-- 🔭 I’m currently working on [My personal website](https://abdullahalomargalib.netlify.app/)
-
-- 🌱 I’m currently learning **Quantum Computing**
-
-- 👯 I’m looking to collaborate on **Qiskit**
-
-- 🤝 I’m looking for help with **Python**
-
-- 👨‍💻 All of my projects are available at [https://abdullahalomargalib.netlify.app/](https://abdullahalomargalib.netlify.app/)
-
-- 💬 Ask me about **anything but the secret codes of my poems.**
-
-- 📫 How to reach me **abdullahalomargalib@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdullah-al-omar-galib-30b6b1258](https://www.linkedin.com/in/abdullah-al-omar-galib-30b6b1258)
 
 <h3 align="left">Connect with me:</h3>
 
